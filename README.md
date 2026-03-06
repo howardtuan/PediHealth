@@ -1,2 +1,2 @@
-# PediHealth
-PediHealth
+PediHealth.ai 是一個專為兒童內分泌科設計的 AI 智慧診後照護平台，參考 PostVisit.ai（https://postvisit.ai）的架構概念，針對兒童內分泌科的特殊需求進行專化開發。
+PediHealth.ai 為一個 AI 代理式診後照護平台，核心功能包括：運用「反向 AI 書記」將門診對話轉化為患者可理解的健康指導，整合病歷、連接裝置、實證醫學資源與外部資料源於單一平台，將單次門診轉化為持續性智慧照護。
